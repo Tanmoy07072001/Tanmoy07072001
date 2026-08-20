@@ -2,59 +2,135 @@
   <img src="./assets/banner-wide.jpg" alt="Tanmoy Roy — iOS · Flight · Intelligence" width="100%" />
 </div>
 
-<div align="center">
-
-# TANMOY ROY
-
-**Software Engineer · AI Engineer · iOS Developer · Drone Researcher**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=5EEAD4&center=true&vCenter=true&width=820&lines=AI+%2B+beautiful+interfaces+%2B+systems+engineering.;SwiftUI+%C2%B7+PyTorch+%C2%B7+autonomous+drones+%C2%B7+multi-agent+AI.;I+design+products%2C+not+isolated+models.)](https://imaginative-stardust-36f7d1.netlify.app/)
-
-iOS at **[WTW](https://www.wtwco.com)** · B.E. CSE, **[Jadavpur University](https://www.jaduniv.edu.in)** · Kolkata · MacBook Air M1
-
-<p>
-  <a href="https://imaginative-stardust-36f7d1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/tanmoy-roy-ba8325287"><img src="https://img.shields.io/badge/LinkedIn-tanmoy--roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://doi.org/10.1109/scm66446.2025.11060238"><img src="https://img.shields.io/badge/IEEE-SAAMU--Net-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" /></a>
-  <a href="https://github.com/Tanmoy07072001"><img src="https://img.shields.io/badge/GitHub-Tanmoy07072001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-</div>
-
----
-
-<p align="center">
-I build intelligent, visually immersive products at the intersection of <b>native iOS</b>, <b>deep learning</b>, <b>autonomous drones</b>, and <b>multi-agent AI</b>.<br />
-Clean architecture. SwiftUI. PyTorch. Robotics software. Interfaces that feel like systems — not CRUD screens.
-</p>
+<br />
 
 <table>
   <tr>
-    <td width="25%" align="center">
-      <b>IEEE Xplore</b><br />
-      <sub>SAAMU-Net published</sub>
+    <td width="68" valign="middle">
+      <img src="./assets/code-mark.png" width="56" alt="" />
     </td>
-    <td width="25%" align="center">
-      <b>Amazon ML Challenge</b><br />
-      <sub>Rank 172</sub>
-    </td>
-    <td width="25%" align="center">
-      <b>IIC Innovation</b><br />
-      <sub>₹30,000 drone funding</sub>
-    </td>
-    <td width="25%" align="center">
-      <b>ISRO / NESAC</b><br />
-      <sub>UAV remote sensing</sub>
+    <td valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=1&pause=1000000&color=10B981&center=false&vCenter=true&multiline=true&repeat=false&width=820&height=72&lines=Software+Engineer+%C2%B7+AI+Engineer+%C2%B7+iOS;Developer+%C2%B7+Drone+Researcher" alt="Software Engineer · AI Engineer · iOS Developer · Drone Researcher" />
+      <br />
+      <img src="https://cdn.simpleicons.org/apple/4B5563" height="14" alt="" />&nbsp;SwiftUI
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/pytorch/4B5563" height="14" alt="" />&nbsp;Deep Learning
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      ✈&nbsp;Autonomous Drones
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      ◎&nbsp;Multi-Agent AI
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+Jadavpur University · iOS at WTW · Building products where AI, interfaces, and machines meet.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=700&color=6B7280&center=true&vCenter=true&width=780&lines=AI+%2B+beautiful+interfaces+%2B+systems+engineering.;I+design+products%2C+not+isolated+models.)](https://imaginative-stardust-36f7d1.netlify.app/)
+
+<p>
+  <a href="https://imaginative-stardust-36f7d1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-10B981?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/tanmoy-roy-ba8325287"><img src="https://img.shields.io/badge/LinkedIn-tanmoy--roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://doi.org/10.1109/scm66446.2025.11060238"><img src="https://img.shields.io/badge/IEEE-SAAMU--Net-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE" /></a>
+  <a href="https://github.com/Tanmoy07072001"><img src="https://img.shields.io/badge/GitHub-Tanmoy07072001-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/IEEE_Xplore-SAAMU--Net-10B981?style=flat-square&logo=ieee&logoColor=white" alt="IEEE" />
+  <img src="https://img.shields.io/badge/Amazon_ML-Rank_172-FF9900?style=flat-square&logo=amazon&logoColor=white" alt="Amazon ML" />
+  <img src="https://img.shields.io/badge/IIC_Innovation-₹30k-6B7280?style=flat-square" alt="IIC" />
+  <img src="https://img.shields.io/badge/NESAC_/_ISRO-UAV_RS-0B3D91?style=flat-square" alt="NESAC" />
+</p>
+
+**Daily**
+<br />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/SwiftUI-0D1117?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111" alt="Firebase" />
+
+**Models**
+<br />
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=white" alt="YOLO" />
+<img src="https://img.shields.io/badge/U--Net-10B981?style=flat-square" alt="U-Net" />
+<img src="https://img.shields.io/badge/CLIP-111111?style=flat-square" alt="CLIP" />
+<img src="https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white" alt="CoreML" />
+<img src="https://img.shields.io/badge/Qwen_/_Gemma_/_Llama-4B5563?style=flat-square" alt="Local LLMs" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+
+**Infra**
+<br />
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+<img src="https://img.shields.io/badge/Colab_T4-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Jetson" />
+
+</div>
+
+<details>
+<summary><b>full stack</b></summary>
+<br />
+
+<p align="center">
+
+**Languages**
+<br />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+
+**Apple**
+<br />
+<img src="https://img.shields.io/badge/SwiftUI-0D1117?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/UIKit-000000?style=flat-square&logo=apple&logoColor=white" alt="UIKit" />
+<img src="https://img.shields.io/badge/MVVM-6B7280?style=flat-square" alt="MVVM" />
+<img src="https://img.shields.io/badge/Combine-F05138?style=flat-square" alt="Combine" />
+<img src="https://img.shields.io/badge/async%2Fawait-147EFB?style=flat-square" alt="async/await" />
+<img src="https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white" alt="CoreML" />
+<img src="https://img.shields.io/badge/WidgetKit-000000?style=flat-square&logo=apple&logoColor=white" alt="WidgetKit" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111" alt="Firebase" />
+
+**Vision / ML**
+<br />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Ultralytics-111111?style=flat-square" alt="Ultralytics" />
+<img src="https://img.shields.io/badge/Albumentations-10B981?style=flat-square" alt="Albumentations" />
+<img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square" alt="Roboflow" />
+
+**Robotics**
+<br />
+<img src="https://img.shields.io/badge/Pixhawk-10B981?style=flat-square" alt="Pixhawk" />
+<img src="https://img.shields.io/badge/MAVLink-0B3D91?style=flat-square" alt="MAVLink" />
+<img src="https://img.shields.io/badge/QGroundControl-4B5563?style=flat-square" alt="QGC" />
+<img src="https://img.shields.io/badge/DroneKit-6B7280?style=flat-square" alt="DroneKit" />
+
+**Systems / agents**
+<br />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" alt="WebSockets" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+<img src="https://img.shields.io/badge/RAG-4B5563?style=flat-square" alt="RAG" />
+
+</p>
+</details>
 
 ---
 
 <div align="center">
 
 ## 01 — Four crafts
-`silicon · air · vision · agents`
 
 </div>
 
@@ -81,31 +157,27 @@ Clean architecture. SwiftUI. PyTorch. Robotics software. Interfaces that feel li
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+---
 
-**Apple — day job**
+### Featured projects
 
-Software Engineer (iOS) at **Willis Towers Watson**. MVVM, SwiftUI, async/await, NavigationStack, Firebase, API layers, reusable components, iOS 17+ targets, performance, Human Interface Guidelines.
-
-    </td>
-    <td valign="top" width="50%">
-
-**Intelligence — research + edge**
-
-Medical segmentation, detection, tracking. GPU on Colab T4, Apple MPS on M1. Detection → tracking → decision on Jetson / Pi companion computers.
-
-    </td>
-  </tr>
-</table>
+| Project | What it does | Stars |
+| --- | --- | --- |
+| [`SAAMU-Net`](https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation) | Selective attention + memory-augmented U-Net for microscopic medical segmentation. IEEE Xplore 2025. | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation?style=flat-square&logo=github&label=&color=10B981) |
+| [`EarthPulse`](https://imaginative-stardust-36f7d1.netlify.app/) | Live planetary intelligence: satellites, ADS-B, weather, wildfires, earthquakes, night lights on a 3D globe. | — |
+| [`DevicePulse`](https://imaginative-stardust-36f7d1.netlify.app/) | On-device Mac system intelligence — CPU, GPU, thermals, processes, ports. Telemetry never leaves the machine. | — |
+| [`DisasterDroneAI`](https://imaginative-stardust-36f7d1.netlify.app/) | Autonomous disaster-relief UAV: waypoints, person detect, payload drop, RTL. GCS + edge AI. | — |
+| [`LinkLoop`](https://github.com/Tanmoy07072001/Twitter) | Twitter-class iOS social app — auth, tweets, profiles, notifications, messaging on Firebase. | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/Twitter?style=flat-square&logo=github&label=&color=10B981) |
+| [`Whisper`](https://github.com/Tanmoy07072001/chatapp2-name-whisper-) | Animated iOS chat client with Firebase auth and Firestore messaging. | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/chatapp2-name-whisper-?style=flat-square&logo=github&label=&color=10B981) |
+| [`HotelNest`](https://github.com/Tanmoy07072001/hotelApp) | SwiftUI hotel discovery with auth, rooms, location, and a flight-search path. | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/hotelApp?style=flat-square&logo=github&label=&color=10B981) |
+| [`YoloWebApp`](https://github.com/Tanmoy07072001/yolowebapp) | Streamlit + OpenCV realtime detection on image, video, and webcam (YOLOv8). | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/yolowebapp?style=flat-square&logo=github&label=&color=10B981) |
+| [`Amazon ML Challenge`](https://github.com/Tanmoy07072001/Amazon-ML-Hackathon) | Amazon ML Challenge entry — **rank 172**. | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/Amazon-ML-Hackathon?style=flat-square&logo=github&label=&color=10B981) |
 
 ---
 
 <div align="center">
 
-## 02 — Selected work
-`products and platforms — not isolated notebooks`
+## Selected work
 
 </div>
 
@@ -135,35 +207,26 @@ Medical segmentation, detection, tracking. GPU on Colab T4, Apple MPS on M1. Det
       </a>
       <br /><br />
       <b>SAAMU-Net</b> · PyTorch · IEEE Xplore 2025<br />
-      <sub>SAA + MAA + wavelet processor on an InceptionV4 U-Net. Microscopy segmentation on TNBC, CPM17, CNS.</sub>
+      <sub>SAA + MAA + wavelet processor on an InceptionV4 U-Net. Microscopy on TNBC, CPM17, CNS.</sub>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/work-drone.jpg" alt="DisasterDroneAI — autonomous UAV platform" width="100%" />
       <br /><br />
       <b>DisasterDroneAI</b> · Pixhawk · YOLO · GCS<br />
-      <sub>Autonomous disaster-relief pipeline: waypoints, person detect, align, payload drop, RTL. Ground station + edge AI.</sub>
+      <sub>Takeoff → detect → align → drop → RTL. Hardware I assemble, software I write, missions I fly.</sub>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/Tanmoy07072001/Twitter"><img src="https://img.shields.io/badge/LinkLoop-SwiftUI_social-0D1117?style=for-the-badge&logo=swift&logoColor=F05138" alt="LinkLoop" /></a>
-  <a href="https://github.com/Tanmoy07072001/chatapp2-name-whisper-"><img src="https://img.shields.io/badge/Whisper-Firebase_chat-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Whisper" /></a>
-  <a href="https://github.com/Tanmoy07072001/hotelApp"><img src="https://img.shields.io/badge/HotelNest-SwiftUI-0D1117?style=for-the-badge&logo=apple&logoColor=white" alt="HotelNest" /></a>
-  <a href="https://github.com/Tanmoy07072001/yolowebapp"><img src="https://img.shields.io/badge/YoloWebApp-Ultralytics-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="YoloWebApp" /></a>
-  <a href="https://github.com/Tanmoy07072001/Amazon-ML-Hackathon"><img src="https://img.shields.io/badge/Amazon_ML-Rank_172-0D1117?style=for-the-badge&logo=amazon&logoColor=FF9900" alt="Amazon ML" /></a>
-</p>
 
 ---
 
 <div align="center">
 
-## 03 — Research
-`SAAMU-Net · selective attention · memory-augmented U-Net`
+## Research · SAAMU-Net
 
 </div>
 
-**[SAAMU-Net](https://doi.org/10.1109/scm66446.2025.11060238)** — *Selective Attention Aggregation and Memory-Augmented U-Net for microscopic medical image segmentation.*
+**[SAAMU-Net](https://doi.org/10.1109/scm66446.2025.11060238)** — Selective Attention Aggregation and Memory-Augmented U-Net for microscopic medical image segmentation.
 
 | Module | What it does |
 | --- | --- |
@@ -172,59 +235,24 @@ Medical segmentation, detection, tracking. GPU on Colab T4, Apple MPS on M1. Det
 | **Wavelet processor** | DTCWT / frequency-aware extraction |
 | **Encoder** | InceptionV4 backbone |
 
-Dice · IoU · Precision · Recall · F1 on **TNBC**, **CPM17**, **CNS**. [Paper](https://doi.org/10.1109/scm66446.2025.11060238) · [Code](https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation)
-
-Also in the vision stack: YOLOv7 / v8 / v11, DeepSORT, ResNet, EfficientNet, Attention U-Net, CLIP, BioMedCLIP, BLIP, custom attention (CBAM, ECA, SCSE, MSFA, SAA).
+[Paper](https://doi.org/10.1109/scm66446.2025.11060238) · [Code](https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation)
 
 ---
 
 <div align="center">
 
-## 04 — Autonomy
-`takeoff → detect → decide → drop → RTL`
+## GitHub
 
-</div>
-
-Hardware I assemble and fly: **Pixhawk**, **Raspberry Pi 5**, **Jetson**, BLDC + ESC, LiPo, FPV. Software: **MAVLink**, DroneKit, QGroundControl, Mission Planner, UDP / WebRTC / Socket.IO.
-
-Disaster-relief mission logic: takeoff, polygon waypoints, hover, detect humans, align, drop payload, continue, return-to-launch when empty. Grassland survey missions with overlap, geotagging, and orthomosaic-ready captures.
-
----
-
-<div align="center">
-
-## 05 — The stack
-`what I actually ship with`
-
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,python,pytorch,tensorflow,opencv,firebase,fastapi,cpp,java,react,ts,threejs,linux,raspberrypi,git,vscode" alt="Tech stack" />
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanmoy07072001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=10B981&icon_color=10B981&text_color=57606a&bg_color=00000000" alt="GitHub stats" />
+  <img src="https://github.com/Tanmoy07072001.png?size=220" width="110" alt="Tanmoy Roy" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy07072001&layout=compact&hide_border=true&title_color=10B981&text_color=57606a&bg_color=00000000&langs_count=6" alt="Top languages" />
 </p>
 
-| Apple | Intelligence | Robotics | Systems |
-| :---: | :---: | :---: | :---: |
-| Swift · SwiftUI · UIKit | PyTorch · YOLO · OpenCV | Pixhawk · MAVLink | FastAPI · WebSockets |
-| MVVM · Combine | U-Net · CLIP · CoreML | Jetson · Raspberry Pi | LangGraph · RAG |
-| Firebase · WidgetKit | Albumentations · MPS | QGC · DroneKit | Local LLMs · MCP |
+<img src="https://streak-stats.demolab.com?user=Tanmoy07072001&hide_border=true&background=00000000&ring=10B981&fire=10B981&currStreakNum=57606a&sideNums=57606a&currStreakLabel=10B981&sideLabels=6B7280&dates=6B7280&stroke=D0D7DE" alt="GitHub streak" />
 
-**Now exploring:** LangGraph / LangChain, local-first multi-agent orchestration on M1 (Qwen, Gemma, Llama, Phi, Mistral), and product architectures like **Synapse** (distributed local AI OS) and **RepoSynapse** (GitHub as a living knowledge graph).
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmoy07072001&bg_color=00000000&color=10b981&line=059669&point=111827&area=true&hide_border=true&area_color=10b981" alt="Contribution graph" />
 
----
-
-<div align="center">
-
-## 06 — Telemetry
-
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanmoy07072001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=070B12&title_color=5EEAD4&icon_color=22D3EE&text_color=C9D1D9&ring_color=5EEAD4" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy07072001&layout=compact&hide_border=true&bg_color=070B12&title_color=5EEAD4&text_color=C9D1D9&langs_count=6" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Tanmoy07072001&hide_border=true&background=070B12&ring=5EEAD4&fire=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=5EEAD4&sideLabels=8B949E&dates=8B949E&stroke=1E3A4C" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmoy07072001&bg_color=070b12&color=5eead4&line=22d3ee&point=f8fafc&area=true&hide_border=true&area_color=22d3ee" alt="Contribution graph" />
 </div>
 
 ---
@@ -233,15 +261,15 @@ Disaster-relief mission logic: takeoff, polygon waypoints, hover, detect humans,
 
 **Let’s build the next system.**
 
-iOS · vision · autonomy · multi-agent AI — or something that doesn’t have a category yet.
+iOS · vision · autonomy · multi-agent AI
 
 <br />
 
-<a href="https://imaginative-stardust-36f7d1.netlify.app/"><img src="https://img.shields.io/badge/Open_the_portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Open portfolio" /></a>
+<a href="https://imaginative-stardust-36f7d1.netlify.app/"><img src="https://img.shields.io/badge/Open_the_portfolio-10B981?style=for-the-badge&logo=netlify&logoColor=white" alt="Open portfolio" /></a>
 <a href="https://www.linkedin.com/in/tanmoy-roy-ba8325287"><img src="https://img.shields.io/badge/Write_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br /><br />
 
-`signal locked · kolkata · utc+5:30`
+powered by flight logs, notebooks, and too many live globes
 
 </div>
