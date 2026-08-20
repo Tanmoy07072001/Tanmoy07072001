@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=80&section=header&animation=fadeIn" width="100%" alt="" />
 
   <h3>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="" />
+    <img src="./assets/lottie/satellite.gif" width="36" alt="" />
     Hi, I'm Tanmoy
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="" />
+    <img src="./assets/lottie/earth.gif" width="36" alt="" />
   </h3>
 
   <img src="./assets/code-mark.png" width="44" alt="" />
@@ -42,6 +42,29 @@
     <img src="https://img.shields.io/badge/IIC_Innovation-₹30k-6B7280?style=flat-square" alt="IIC" />
     <img src="https://img.shields.io/badge/NESAC_/_ISRO-UAV_RS-0B3D91?style=flat-square" alt="NESAC" />
   </p>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/lottie/coding.gif" width="150" alt="Developer coding" /><br />
+      <sub><b>iOS</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/lottie/drone.gif" width="150" alt="Autonomous drone" /><br />
+      <sub><b>Flight</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/lottie/satellite.gif" width="150" alt="Satellite" /><br />
+      <sub><b>Orbit</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/lottie/earth.gif" width="150" alt="Rotating Earth" /><br />
+      <sub><b>EarthPulse</b></sub>
+    </td>
+  </tr>
+</table>
+
+<sub>motion from [LottieFiles](https://lottiefiles.com) · Lottie Simple License</sub>
 
 **Daily**
 <br />
