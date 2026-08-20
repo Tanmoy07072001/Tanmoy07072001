@@ -212,20 +212,18 @@
 
 ## GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanmoy07072001&show_icons=true&hide_border=true&theme=default&title_color=10B981&icon_color=10B981&bg_color=FFFFFF" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy07072001&layout=compact&hide_border=true&theme=default&title_color=10B981&bg_color=FFFFFF&langs_count=6" alt="Most used languages" />
+<p>
+  <a href="https://github.com/Tanmoy07072001"><img src="https://img.shields.io/github/followers/Tanmoy07072001?label=followers&style=for-the-badge&logo=github&logoColor=white&color=10B981" alt="followers" /></a>
+  <img src="https://img.shields.io/github/stars/Tanmoy07072001?affiliations=OWNER&label=stars&style=for-the-badge&logo=star&color=10B981" alt="stars" />
+  <img src="https://img.shields.io/badge/public_repos-10-111111?style=for-the-badge&logo=github&logoColor=white" alt="repos" />
+  <img src="https://komarev.com/ghpvc/?username=Tanmoy07072001&label=profile+views&color=10b981&style=for-the-badge" alt="profile views" />
+</p>
 
-<br />
+<img src="https://skillicons.dev/icons?i=swift,python,pytorch,opencv,firebase,fastapi,cpp,java,react,ts,git,linux" alt="Languages and tools" />
 
-<img src="https://streak-stats.demolab.com/?user=Tanmoy07072001&theme=default&hide_border=true&background=FFFFFF&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub streak" />
+<br /><br />
 
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmoy07072001&theme=github-compact&hide_border=true&area=true&color=10b981&line=059669&point=111827&area_color=10b981" alt="Contribution graph" />
-
-<br />
-
-<img src="https://raw.githubusercontent.com/Tanmoy07072001/Tanmoy07072001/output/github-contribution-grid-snake.gif" alt="GitHub contribution snake" width="100%" />
+<img src="https://ghchart.rshah.org/10B981/Tanmoy07072001" alt="Tanmoy Roy's GitHub contribution chart" />
 
 </div>
 
