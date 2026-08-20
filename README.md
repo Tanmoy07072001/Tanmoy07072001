@@ -223,7 +223,7 @@
 
 <br /><br />
 
-<img src="https://ghchart.rshah.org/10B981/Tanmoy07072001" alt="Tanmoy Roy's GitHub contribution chart" />
+<img src="./assets/contribution-snake.gif" alt="Contribution snake animation" width="100%" />
 
 </div>
 
