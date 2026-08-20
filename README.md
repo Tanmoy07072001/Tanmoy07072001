@@ -1,14 +1,14 @@
 <div align="center">
   <img src="./assets/banner-wide.jpg" alt="Tanmoy Roy — iOS · Flight · Intelligence" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=80&section=header&animation=fadeIn" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=72&section=header&animation=fadeIn" width="100%" alt="" />
 
   <h3>
-    <img src="./assets/lottie/satellite.gif" width="36" alt="" />
+    <img src="./assets/lottie/satellite.gif" width="28" alt="" />
     Hi, I'm Tanmoy
-    <img src="./assets/lottie/earth.gif" width="36" alt="" />
+    <img src="./assets/lottie/earth.gif" width="28" alt="" />
   </h3>
 
-  <img src="./assets/code-mark.png" width="44" alt="" />
+  <img src="./assets/code-mark.png" width="40" alt="" />
 
   <br />
 
@@ -27,73 +27,41 @@
     <img src="https://img.shields.io/badge/Kolkata-UTC%2B5%3A30-4B5563?style=flat-square" alt="Kolkata" />
   </p>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=600&color=6B7280&center=true&vCenter=true&width=820&lines=AI+%2B+beautiful+interfaces+%2B+systems+engineering.;I+design+products%2C+not+isolated+models.;SwiftUI+%C2%B7+PyTorch+%C2%B7+Pixhawk+%C2%B7+LangGraph.;Take+a+hard+system.+Make+it+feel+inevitable.)](https://imaginative-stardust-36f7d1.netlify.app/)
-
   <p>
-    <a href="https://imaginative-stardust-36f7d1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-10B981?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/tanmoy-roy-ba8325287"><img src="https://img.shields.io/badge/LinkedIn-tanmoy--roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://doi.org/10.1109/scm66446.2025.11060238"><img src="https://img.shields.io/badge/IEEE-SAAMU--Net-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE" /></a>
-    <a href="https://github.com/Tanmoy07072001"><img src="https://img.shields.io/badge/GitHub-Tanmoy07072001-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://imaginative-stardust-36f7d1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-10B981?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/tanmoy-roy-ba8325287"><img src="https://img.shields.io/badge/LinkedIn-tanmoy--roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://doi.org/10.1109/scm66446.2025.11060238"><img src="https://img.shields.io/badge/IEEE-SAAMU--Net-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" /></a>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/IEEE_Xplore-SAAMU--Net-10B981?style=flat-square&logo=ieee&logoColor=white" alt="IEEE" />
+    <img src="https://img.shields.io/badge/IEEE_Xplore-2025-10B981?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore" />
     <img src="https://img.shields.io/badge/Amazon_ML-Rank_172-FF9900?style=flat-square&logo=amazon&logoColor=white" alt="Amazon ML" />
-    <img src="https://img.shields.io/badge/IIC_Innovation-₹30k-6B7280?style=flat-square" alt="IIC" />
+    <img src="https://img.shields.io/badge/IIC-₹30k_drone_funding-6B7280?style=flat-square" alt="IIC" />
     <img src="https://img.shields.io/badge/NESAC_/_ISRO-UAV_RS-0B3D91?style=flat-square" alt="NESAC" />
   </p>
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="./assets/lottie/coding.gif" width="150" alt="Developer coding" /><br />
-      <sub><b>iOS</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./assets/lottie/drone.gif" width="150" alt="Autonomous drone" /><br />
-      <sub><b>Flight</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./assets/lottie/satellite.gif" width="150" alt="Satellite" /><br />
-      <sub><b>Orbit</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./assets/lottie/earth.gif" width="150" alt="Rotating Earth" /><br />
-      <sub><b>EarthPulse</b></sub>
-    </td>
-  </tr>
-</table>
-
-<sub>motion from [LottieFiles](https://lottiefiles.com) · Lottie Simple License</sub>
-
-**Daily**
-<br />
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-<img src="https://img.shields.io/badge/SwiftUI-0D1117?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111" alt="Firebase" />
-
-**Models**
-<br />
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=white" alt="YOLO" />
-<img src="https://img.shields.io/badge/U--Net-10B981?style=flat-square" alt="U-Net" />
-<img src="https://img.shields.io/badge/CLIP-111111?style=flat-square" alt="CLIP" />
-<img src="https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white" alt="CoreML" />
-<img src="https://img.shields.io/badge/Qwen_/_Gemma_/_Llama-4B5563?style=flat-square" alt="Local LLMs" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
-
-**Infra**
-<br />
-<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-<img src="https://img.shields.io/badge/Colab_T4-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-<img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Jetson" />
-
 </div>
+
+<img src="./assets/quote-strip.jpg" alt="Take a hard system. Make it feel inevitable." width="100%" />
+
+<div align="center">
+  <img src="./assets/lottie/drone.gif" width="72" alt="" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/lottie/satellite.gif" width="72" alt="" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/lottie/earth.gif" width="72" alt="" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D1117?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" alt="YOLO" />
+  <img src="https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white" alt="CoreML" />
+  <img src="https://img.shields.io/badge/Pixhawk-10B981?style=flat-square" alt="Pixhawk" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111" alt="Firebase" />
+</p>
 
 <details>
 <summary><b>full stack</b></summary>
@@ -149,23 +117,7 @@
 </p>
 </details>
 
----
-
-### Featured projects
-
-| Project | What it does | Stars |
-| --- | --- | --- |
-| [`SAAMU-Net`](https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation) | Selective attention + memory-augmented U-Net for microscopic medical segmentation. IEEE Xplore 2025. | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation?style=flat-square&logo=github&label=&color=10B981) |
-| [`EarthPulse`](https://imaginative-stardust-36f7d1.netlify.app/) | Live planetary intelligence: satellites, ADS-B, weather, wildfires, earthquakes, night lights on a 3D globe. | — |
-| [`DevicePulse`](https://imaginative-stardust-36f7d1.netlify.app/) | On-device Mac system intelligence — CPU, GPU, thermals, processes, ports. Telemetry never leaves the machine. | — |
-| [`DisasterDroneAI`](https://imaginative-stardust-36f7d1.netlify.app/) | Autonomous disaster-relief UAV: waypoints, person detect, payload drop, RTL. GCS + edge AI. | — |
-| [`LinkLoop`](https://github.com/Tanmoy07072001/Twitter) | Twitter-class iOS social app — auth, tweets, profiles, notifications, messaging on Firebase. | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/Twitter?style=flat-square&logo=github&label=&color=10B981) |
-| [`Whisper`](https://github.com/Tanmoy07072001/chatapp2-name-whisper-) | Animated iOS chat client with Firebase auth and Firestore messaging. | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/chatapp2-name-whisper-?style=flat-square&logo=github&label=&color=10B981) |
-| [`HotelNest`](https://github.com/Tanmoy07072001/hotelApp) | SwiftUI hotel discovery with auth, rooms, location, and a flight-search path. | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/hotelApp?style=flat-square&logo=github&label=&color=10B981) |
-| [`YoloWebApp`](https://github.com/Tanmoy07072001/yolowebapp) | Streamlit + OpenCV realtime detection on image, video, and webcam (YOLOv8). | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/yolowebapp?style=flat-square&logo=github&label=&color=10B981) |
-| [`Amazon ML Challenge`](https://github.com/Tanmoy07072001/Amazon-ML-Hackathon) | Amazon ML Challenge entry — **rank 172**. | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/Amazon-ML-Hackathon?style=flat-square&logo=github&label=&color=10B981) |
-
----
+<img src="./assets/divider-line.png" width="100%" alt="" />
 
 <div align="center">
 
@@ -180,16 +132,16 @@
         <img src="./assets/work-orbitalis.jpg" alt="EarthPulse — planetary intelligence" width="100%" />
       </a>
       <br /><br />
-      <b>EarthPulse</b> · SwiftUI · 3D globe · live APIs<br />
-      <sub>Planet intelligence: satellites, ADS-B, weather, earthquakes, wildfires, cyclones, AQI, space weather, night lights.</sub>
+      <b>EarthPulse</b> · SwiftUI · live 3D globe<br />
+      <sub>Satellites, ADS-B, weather, wildfires, earthquakes, and night lights on one planet.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://imaginative-stardust-36f7d1.netlify.app/">
         <img src="./assets/work-macpulse.jpg" alt="DevicePulse — Mac system intelligence" width="100%" />
       </a>
       <br /><br />
-      <b>DevicePulse</b> · Swift · live widgets<br />
-      <sub>On-device Mac intelligence: CPU, GPU, RAM, thermals, battery, processes, ports, network — telemetry stays local.</sub>
+      <b>DevicePulse</b> · Swift · on-device telemetry<br />
+      <sub>CPU, GPU, thermals, processes, ports — nothing leaves the Mac.</sub>
     </td>
   </tr>
   <tr>
@@ -199,37 +151,56 @@
       </a>
       <br /><br />
       <b>SAAMU-Net</b> · PyTorch · IEEE Xplore 2025<br />
-      <sub>SAA + MAA + wavelet processor on an InceptionV4 U-Net. Microscopy on TNBC, CPM17, CNS.</sub>
+      <sub>Selective attention + memory-augmented U-Net for microscopic segmentation.</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/work-drone.jpg" alt="DisasterDroneAI — autonomous UAV platform" width="100%" />
+      <a href="https://imaginative-stardust-36f7d1.netlify.app/">
+        <img src="./assets/work-drone.jpg" alt="DisasterDroneAI — autonomous UAV platform" width="100%" />
+      </a>
       <br /><br />
       <b>DisasterDroneAI</b> · Pixhawk · YOLO · GCS<br />
-      <sub>Takeoff → detect → align → drop → RTL. Hardware I assemble, software I write, missions I fly.</sub>
+      <sub>Takeoff → detect → align → drop → RTL. Airframe, software, and missions.</sub>
     </td>
   </tr>
 </table>
 
----
+<img src="./assets/divider-line.png" width="100%" alt="" />
 
 <div align="center">
 
-## Research · SAAMU-Net
+## Also on GitHub
 
 </div>
 
+| Project | What it does | Stars |
+| --- | --- | --- |
+| [`SAAMU-Net`](https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation) | IEEE Xplore 2025 — medical microscopic segmentation | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation?style=flat-square&logo=github&label=&color=10B981) |
+| [`LinkLoop`](https://github.com/Tanmoy07072001/Twitter) | Twitter-class iOS social app on Firebase | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/Twitter?style=flat-square&logo=github&label=&color=10B981) |
+| [`Whisper`](https://github.com/Tanmoy07072001/chatapp2-name-whisper-) | Animated iOS chat with Firebase auth + Firestore | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/chatapp2-name-whisper-?style=flat-square&logo=github&label=&color=10B981) |
+| [`HotelNest`](https://github.com/Tanmoy07072001/hotelApp) | SwiftUI hotel discovery, rooms, location, flights | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/hotelApp?style=flat-square&logo=github&label=&color=10B981) |
+| [`YoloWebApp`](https://github.com/Tanmoy07072001/yolowebapp) | Realtime YOLOv8 on image, video, and webcam | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/yolowebapp?style=flat-square&logo=github&label=&color=10B981) |
+| [`Amazon ML Challenge`](https://github.com/Tanmoy07072001/Amazon-ML-Hackathon) | Challenge entry — **rank 172** | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/Amazon-ML-Hackathon?style=flat-square&logo=github&label=&color=10B981) |
+
+<img src="./assets/divider-line.png" width="100%" alt="" />
+
+<div align="center">
+
+## Research
+
 **[SAAMU-Net](https://doi.org/10.1109/scm66446.2025.11060238)** — Selective Attention Aggregation and Memory-Augmented U-Net for microscopic medical image segmentation.
 
-| Module | What it does |
-| --- | --- |
-| **SAA** | Selective Attention Aggregation for multi-scale features |
-| **MAA** | Memory-Augmented Attention for contextual refinement |
-| **Wavelet processor** | DTCWT / frequency-aware extraction |
-| **Encoder** | InceptionV4 backbone |
+<p>
+  <img src="https://img.shields.io/badge/SAA-multi--scale_features-10B981?style=flat-square" alt="SAA" />
+  <img src="https://img.shields.io/badge/MAA-contextual_refinement-0A66C2?style=flat-square" alt="MAA" />
+  <img src="https://img.shields.io/badge/Wavelet-DTCWT-4B5563?style=flat-square" alt="Wavelet" />
+  <img src="https://img.shields.io/badge/Encoder-InceptionV4-111111?style=flat-square" alt="InceptionV4" />
+</p>
 
 [Paper](https://doi.org/10.1109/scm66446.2025.11060238) · [Code](https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation)
 
----
+</div>
+
+<img src="./assets/divider-line.png" width="100%" alt="" />
 
 <div align="center">
 
@@ -238,21 +209,14 @@
 <p>
   <a href="https://github.com/Tanmoy07072001"><img src="https://img.shields.io/github/followers/Tanmoy07072001?label=followers&style=for-the-badge&logo=github&logoColor=white&color=10B981" alt="followers" /></a>
   <img src="https://img.shields.io/github/stars/Tanmoy07072001?affiliations=OWNER&label=stars&style=for-the-badge&logo=star&color=10B981" alt="stars" />
-  <img src="https://img.shields.io/badge/public_repos-10-111111?style=for-the-badge&logo=github&logoColor=white" alt="repos" />
   <img src="https://komarev.com/ghpvc/?username=Tanmoy07072001&label=profile+views&color=10b981&style=for-the-badge" alt="profile views" />
 </p>
 
 <img src="https://skillicons.dev/icons?i=swift,python,pytorch,opencv,firebase,fastapi,cpp,java,react,ts,git,linux" alt="Languages and tools" />
 
-<br /><br />
-
-<img src="./assets/contribution-snake.gif" alt="Contribution snake animation" width="100%" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=90&section=footer&animation=fadeIn" width="100%" alt="" />
-
----
 
 <div align="center">
 
