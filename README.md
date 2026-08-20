@@ -34,7 +34,6 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/IEEE_Xplore-2025-10B981?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore" />
     <img src="https://img.shields.io/badge/Amazon_ML-Rank_172-FF9900?style=flat-square&logo=amazon&logoColor=white" alt="Amazon ML" />
     <img src="https://img.shields.io/badge/IIC-₹30k_drone_funding-6B7280?style=flat-square" alt="IIC" />
     <img src="https://img.shields.io/badge/NESAC_/_ISRO-UAV_RS-0B3D91?style=flat-square" alt="NESAC" />
@@ -42,14 +41,6 @@
 </div>
 
 <img src="./assets/quote-strip.jpg" alt="Take a hard system. Make it feel inevitable." width="100%" />
-
-<div align="center">
-  <img src="./assets/lottie/drone.gif" width="72" alt="" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/lottie/satellite.gif" width="72" alt="" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/lottie/earth.gif" width="72" alt="" />
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
@@ -117,7 +108,7 @@
 </p>
 </details>
 
-<img src="./assets/divider-line.png" width="100%" alt="" />
+---
 
 <div align="center">
 
@@ -151,7 +142,8 @@
       </a>
       <br /><br />
       <b>SAAMU-Net</b> · PyTorch · IEEE Xplore 2025<br />
-      <sub>Selective attention + memory-augmented U-Net for microscopic segmentation.</sub>
+      <sub>Selective attention + memory-augmented U-Net for microscopic segmentation.</sub><br />
+      <sub><a href="https://doi.org/10.1109/scm66446.2025.11060238">Paper</a> · <a href="https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation">Code</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://imaginative-stardust-36f7d1.netlify.app/">
@@ -164,7 +156,7 @@
   </tr>
 </table>
 
-<img src="./assets/divider-line.png" width="100%" alt="" />
+---
 
 <div align="center">
 
@@ -172,49 +164,14 @@
 
 </div>
 
-| Project | What it does | Stars |
-| --- | --- | --- |
-| [`SAAMU-Net`](https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation) | IEEE Xplore 2025 — medical microscopic segmentation | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation?style=flat-square&logo=github&label=&color=10B981) |
-| [`LinkLoop`](https://github.com/Tanmoy07072001/Twitter) | Twitter-class iOS social app on Firebase | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/Twitter?style=flat-square&logo=github&label=&color=10B981) |
-| [`Whisper`](https://github.com/Tanmoy07072001/chatapp2-name-whisper-) | Animated iOS chat with Firebase auth + Firestore | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/chatapp2-name-whisper-?style=flat-square&logo=github&label=&color=10B981) |
-| [`HotelNest`](https://github.com/Tanmoy07072001/hotelApp) | SwiftUI hotel discovery, rooms, location, flights | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/hotelApp?style=flat-square&logo=github&label=&color=10B981) |
-| [`YoloWebApp`](https://github.com/Tanmoy07072001/yolowebapp) | Realtime YOLOv8 on image, video, and webcam | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/yolowebapp?style=flat-square&logo=github&label=&color=10B981) |
-| [`Amazon ML Challenge`](https://github.com/Tanmoy07072001/Amazon-ML-Hackathon) | Challenge entry — **rank 172** | ![stars](https://img.shields.io/github/stars/Tanmoy07072001/Amazon-ML-Hackathon?style=flat-square&logo=github&label=&color=10B981) |
-
-<img src="./assets/divider-line.png" width="100%" alt="" />
-
-<div align="center">
-
-## Research
-
-**[SAAMU-Net](https://doi.org/10.1109/scm66446.2025.11060238)** — Selective Attention Aggregation and Memory-Augmented U-Net for microscopic medical image segmentation.
-
-<p>
-  <img src="https://img.shields.io/badge/SAA-multi--scale_features-10B981?style=flat-square" alt="SAA" />
-  <img src="https://img.shields.io/badge/MAA-contextual_refinement-0A66C2?style=flat-square" alt="MAA" />
-  <img src="https://img.shields.io/badge/Wavelet-DTCWT-4B5563?style=flat-square" alt="Wavelet" />
-  <img src="https://img.shields.io/badge/Encoder-InceptionV4-111111?style=flat-square" alt="InceptionV4" />
-</p>
-
-[Paper](https://doi.org/10.1109/scm66446.2025.11060238) · [Code](https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation)
-
-</div>
-
-<img src="./assets/divider-line.png" width="100%" alt="" />
-
-<div align="center">
-
-## GitHub
-
-<p>
-  <a href="https://github.com/Tanmoy07072001"><img src="https://img.shields.io/github/followers/Tanmoy07072001?label=followers&style=for-the-badge&logo=github&logoColor=white&color=10B981" alt="followers" /></a>
-  <img src="https://img.shields.io/github/stars/Tanmoy07072001?affiliations=OWNER&label=stars&style=for-the-badge&logo=star&color=10B981" alt="stars" />
-  <img src="https://komarev.com/ghpvc/?username=Tanmoy07072001&label=profile+views&color=10b981&style=for-the-badge" alt="profile views" />
-</p>
-
-<img src="https://skillicons.dev/icons?i=swift,python,pytorch,opencv,firebase,fastapi,cpp,java,react,ts,git,linux" alt="Languages and tools" />
-
-</div>
+| Project | What it does |
+| --- | --- |
+| [`SAAMU-Net`](https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation) | IEEE Xplore 2025 — medical microscopic segmentation |
+| [`LinkLoop`](https://github.com/Tanmoy07072001/Twitter) | Twitter-class iOS social app on Firebase |
+| [`Whisper`](https://github.com/Tanmoy07072001/chatapp2-name-whisper-) | Animated iOS chat with Firebase auth + Firestore |
+| [`HotelNest`](https://github.com/Tanmoy07072001/hotelApp) | SwiftUI hotel discovery, rooms, location, flights |
+| [`YoloWebApp`](https://github.com/Tanmoy07072001/yolowebapp) | Realtime YOLOv8 on image, video, and webcam |
+| [`Amazon ML Challenge`](https://github.com/Tanmoy07072001/Amazon-ML-Hackathon) | Challenge entry — **rank 172** |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=90&section=footer&animation=fadeIn" width="100%" alt="" />
 
