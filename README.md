@@ -120,34 +120,34 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://imaginative-stardust-36f7d1.netlify.app/">
-        <img src="./assets/work-orbitalis.jpg" alt="EarthPulse — planetary intelligence" width="100%" />
+        <img src="./assets/work-orbitalis.jpg" alt="ORBITALIS — real-time 3D satellite tracker" width="100%" />
       </a>
       <br /><br />
-      <b>EarthPulse</b> · SwiftUI · live 3D globe<br />
-      <sub>Satellites, ADS-B, weather, wildfires, earthquakes, and night lights on one planet.</sub>
+      <b>ORBITALIS</b> · Three.js · live satellite catalog<br />
+      <sub>3,200+ objects on a 3D globe — LEO/MEO/GEO filters, NORAD search, time scrub.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://imaginative-stardust-36f7d1.netlify.app/">
-        <img src="./assets/work-macpulse.jpg" alt="DevicePulse — Mac system intelligence" width="100%" />
+        <img src="./assets/work-macpulse.jpg" alt="MacPulse — native macOS system monitor" width="100%" />
       </a>
       <br /><br />
-      <b>DevicePulse</b> · Swift · on-device telemetry<br />
+      <b>MacPulse</b> · Swift · on-device telemetry<br />
       <sub>CPU, GPU, thermals, processes, ports — nothing leaves the Mac.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://doi.org/10.1109/scm66446.2025.11060238">
-        <img src="./assets/work-saamu.jpg" alt="SAAMU-Net — medical image segmentation" width="100%" />
+        <img src="./assets/work-saamu.jpg" alt="SAAMU-Net — TNBC original, attention heatmap, overlay" width="100%" />
       </a>
       <br /><br />
       <b>SAAMU-Net</b> · PyTorch · IEEE Xplore 2025<br />
-      <sub>Selective attention + memory-augmented U-Net for microscopic segmentation.</sub><br />
+      <sub>TNBC microscopy: original · attention heatmap · overlay.</sub><br />
       <sub><a href="https://doi.org/10.1109/scm66446.2025.11060238">Paper</a> · <a href="https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation">Code</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://imaginative-stardust-36f7d1.netlify.app/">
-        <img src="./assets/work-drone.jpg" alt="DisasterDroneAI — autonomous UAV platform" width="100%" />
+        <img src="./assets/work-drone.jpg" alt="DisasterDroneAI — quadcopter and hexacopter on the bench" width="100%" />
       </a>
       <br /><br />
       <b>DisasterDroneAI</b> · Pixhawk · YOLO · GCS<br />
