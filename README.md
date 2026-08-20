@@ -150,10 +150,9 @@
 
 <p align="center">
   <a href="https://imaginative-stardust-36f7d1.netlify.app/">
-    <img src="./assets/drone-1.jpg" alt="Field test — quadcopter and hexacopter" width="24%" />
-    <img src="./assets/drone-2.jpg" alt="Night ops — navigation lights on grass" width="24%" />
-    <img src="./assets/drone-3.jpg" alt="Ground station — tracking antennas" width="24%" />
-    <img src="./assets/drone-4.jpg" alt="NIDAR 2026 — National Innovation Challenge" width="24%" />
+    <img src="./assets/drone-2.jpg" alt="Night ops — navigation lights on grass" width="32%" />
+    <img src="./assets/drone-3.jpg" alt="Ground station — tracking antennas" width="32%" />
+    <img src="./assets/drone-4.jpg" alt="NIDAR 2026 — National Innovation Challenge" width="32%" />
   </a>
 </p>
 
