@@ -1,47 +1,47 @@
 <div align="center">
   <img src="./assets/banner-wide.jpg" alt="Tanmoy Roy — iOS · Flight · Intelligence" width="100%" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=80&section=header&animation=fadeIn" width="100%" alt="" />
 
-<br />
+  <h3>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="" />
+    Hi, I'm Tanmoy
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="" />
+  </h3>
 
-<table>
-  <tr>
-    <td width="68" valign="middle">
-      <img src="./assets/code-mark.png" width="56" alt="" />
-    </td>
-    <td valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=1&pause=1000000&color=10B981&center=false&vCenter=true&multiline=true&repeat=false&width=820&height=72&lines=Software+Engineer+%C2%B7+AI+Engineer+%C2%B7+iOS;Developer+%C2%B7+Drone+Researcher" alt="Software Engineer · AI Engineer · iOS Developer · Drone Researcher" />
-      <br />
-      <img src="https://cdn.simpleicons.org/apple/4B5563" height="14" alt="" />&nbsp;SwiftUI
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/pytorch/4B5563" height="14" alt="" />&nbsp;Deep Learning
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      ✈&nbsp;Autonomous Drones
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      ◎&nbsp;Multi-Agent AI
-    </td>
-  </tr>
-</table>
+  <img src="./assets/code-mark.png" width="44" alt="" />
 
-<div align="center">
+  <br />
 
-Jadavpur University · iOS at WTW · Building products where AI, interfaces, and machines meet.
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2400&pause=600&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=84&lines=Software+Engineer+%C2%B7+AI+Engineer;iOS+Developer+%C2%B7+Drone+Researcher" alt="Software Engineer · AI Engineer · iOS Developer · Drone Researcher" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=700&color=6B7280&center=true&vCenter=true&width=780&lines=AI+%2B+beautiful+interfaces+%2B+systems+engineering.;I+design+products%2C+not+isolated+models.)](https://imaginative-stardust-36f7d1.netlify.app/)
+  <p>
+    <img src="https://img.shields.io/badge/SwiftUI-111111?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI" />
+    <img src="https://img.shields.io/badge/Deep_Learning-111111?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="Deep Learning" />
+    <img src="https://img.shields.io/badge/Autonomous_Drones-111111?style=flat-square" alt="Autonomous Drones" />
+    <img src="https://img.shields.io/badge/Multi--Agent_AI-111111?style=flat-square" alt="Multi-Agent AI" />
+  </p>
 
-<p>
-  <a href="https://imaginative-stardust-36f7d1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-10B981?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/tanmoy-roy-ba8325287"><img src="https://img.shields.io/badge/LinkedIn-tanmoy--roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://doi.org/10.1109/scm66446.2025.11060238"><img src="https://img.shields.io/badge/IEEE-SAAMU--Net-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE" /></a>
-  <a href="https://github.com/Tanmoy07072001"><img src="https://img.shields.io/badge/GitHub-Tanmoy07072001-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Jadavpur_University-CSE-10B981?style=flat-square" alt="Jadavpur University" />
+    <img src="https://img.shields.io/badge/WTW-iOS_Engineer-0A66C2?style=flat-square" alt="WTW" />
+    <img src="https://img.shields.io/badge/Kolkata-UTC%2B5%3A30-4B5563?style=flat-square" alt="Kolkata" />
+  </p>
 
-<p>
-  <img src="https://img.shields.io/badge/IEEE_Xplore-SAAMU--Net-10B981?style=flat-square&logo=ieee&logoColor=white" alt="IEEE" />
-  <img src="https://img.shields.io/badge/Amazon_ML-Rank_172-FF9900?style=flat-square&logo=amazon&logoColor=white" alt="Amazon ML" />
-  <img src="https://img.shields.io/badge/IIC_Innovation-₹30k-6B7280?style=flat-square" alt="IIC" />
-  <img src="https://img.shields.io/badge/NESAC_/_ISRO-UAV_RS-0B3D91?style=flat-square" alt="NESAC" />
-</p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=600&color=6B7280&center=true&vCenter=true&width=820&lines=AI+%2B+beautiful+interfaces+%2B+systems+engineering.;I+design+products%2C+not+isolated+models.;SwiftUI+%C2%B7+PyTorch+%C2%B7+Pixhawk+%C2%B7+LangGraph.;Take+a+hard+system.+Make+it+feel+inevitable.)](https://imaginative-stardust-36f7d1.netlify.app/)
+
+  <p>
+    <a href="https://imaginative-stardust-36f7d1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-10B981?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/tanmoy-roy-ba8325287"><img src="https://img.shields.io/badge/LinkedIn-tanmoy--roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://doi.org/10.1109/scm66446.2025.11060238"><img src="https://img.shields.io/badge/IEEE-SAAMU--Net-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE" /></a>
+    <a href="https://github.com/Tanmoy07072001"><img src="https://img.shields.io/badge/GitHub-Tanmoy07072001-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/IEEE_Xplore-SAAMU--Net-10B981?style=flat-square&logo=ieee&logoColor=white" alt="IEEE" />
+    <img src="https://img.shields.io/badge/Amazon_ML-Rank_172-FF9900?style=flat-square&logo=amazon&logoColor=white" alt="Amazon ML" />
+    <img src="https://img.shields.io/badge/IIC_Innovation-₹30k-6B7280?style=flat-square" alt="IIC" />
+    <img src="https://img.shields.io/badge/NESAC_/_ISRO-UAV_RS-0B3D91?style=flat-square" alt="NESAC" />
+  </p>
 
 **Daily**
 <br />
@@ -125,37 +125,6 @@ Jadavpur University · iOS at WTW · Building products where AI, interfaces, and
 
 </p>
 </details>
-
----
-
-<div align="center">
-
-## 01 — Four crafts
-
-</div>
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="./assets/card-ios.jpg" alt="iOS engineering" width="100%" />
-      <br /><br />
-      <b>iOS engineering</b><br />
-      <sub>Swift · SwiftUI · MVVM · Combine · CoreML · Firebase</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="./assets/card-flight.jpg" alt="Autonomous drones" width="100%" />
-      <br /><br />
-      <b>Autonomous drones</b><br />
-      <sub>Pixhawk · MAVLink · Jetson · Raspberry Pi 5 · FPV</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="./assets/card-intelligence.jpg" alt="AI and computer vision" width="100%" />
-      <br /><br />
-      <b>AI & computer vision</b><br />
-      <sub>YOLO · U-Net · CLIP · LangGraph · local LLMs</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -243,17 +212,24 @@ Jadavpur University · iOS at WTW · Building products where AI, interfaces, and
 
 ## GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanmoy07072001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=10B981&icon_color=10B981&text_color=57606a&bg_color=00000000" alt="GitHub stats" />
-  <img src="https://github.com/Tanmoy07072001.png?size=220" width="110" alt="Tanmoy Roy" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy07072001&layout=compact&hide_border=true&title_color=10B981&text_color=57606a&bg_color=00000000&langs_count=6" alt="Top languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Tanmoy07072001&show_icons=true&hide_border=true&theme=default&title_color=10B981&icon_color=10B981&bg_color=FFFFFF" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy07072001&layout=compact&hide_border=true&theme=default&title_color=10B981&bg_color=FFFFFF&langs_count=6" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=Tanmoy07072001&hide_border=true&background=00000000&ring=10B981&fire=10B981&currStreakNum=57606a&sideNums=57606a&currStreakLabel=10B981&sideLabels=6B7280&dates=6B7280&stroke=D0D7DE" alt="GitHub streak" />
+<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmoy07072001&bg_color=00000000&color=10b981&line=059669&point=111827&area=true&hide_border=true&area_color=10b981" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com/?user=Tanmoy07072001&theme=default&hide_border=true&background=FFFFFF&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmoy07072001&theme=github-compact&hide_border=true&area=true&color=10b981&line=059669&point=111827&area_color=10b981" alt="Contribution graph" />
+
+<br />
+
+<img src="https://raw.githubusercontent.com/Tanmoy07072001/Tanmoy07072001/output/github-contribution-grid-snake.gif" alt="GitHub contribution snake" width="100%" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=90&section=footer&animation=fadeIn" width="100%" alt="" />
 
 ---
 
@@ -261,7 +237,7 @@ Jadavpur University · iOS at WTW · Building products where AI, interfaces, and
 
 **Let’s build the next system.**
 
-iOS · vision · autonomy · multi-agent AI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=10B981&center=true&vCenter=true&width=560&lines=iOS+%C2%B7+vision+%C2%B7+autonomy+%C2%B7+multi-agent+AI;or+something+that+doesn't+have+a+category+yet" alt="Let's build" />
 
 <br />
 
