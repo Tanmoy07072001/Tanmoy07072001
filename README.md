@@ -135,26 +135,32 @@
       <sub>CPU, GPU, thermals, processes, ports — nothing leaves the Mac.</sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://doi.org/10.1109/scm66446.2025.11060238">
-        <img src="./assets/work-saamu.jpg" alt="SAAMU-Net — TNBC original, attention heatmap, overlay" width="100%" />
-      </a>
-      <br /><br />
-      <b>SAAMU-Net</b> · PyTorch · IEEE Xplore 2025<br />
-      <sub>TNBC microscopy: original · attention heatmap · overlay.</sub><br />
-      <sub><a href="https://doi.org/10.1109/scm66446.2025.11060238">Paper</a> · <a href="https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation">Code</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://imaginative-stardust-36f7d1.netlify.app/">
-        <img src="./assets/work-drone.jpg" alt="DisasterDroneAI — quadcopter and hexacopter on the bench" width="100%" />
-      </a>
-      <br /><br />
-      <b>DisasterDroneAI</b> · Pixhawk · YOLO · GCS<br />
-      <sub>Takeoff → detect → align → drop → RTL. Airframe, software, and missions.</sub>
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <a href="https://doi.org/10.1109/scm66446.2025.11060238">
+    <img src="./assets/work-saamu.jpg" alt="SAAMU-Net — original, attention heatmap, overlay" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <b>SAAMU-Net</b> · PyTorch · IEEE Xplore 2025<br />
+  <sub>TNBC microscopy: original · attention heatmap · overlay · <a href="https://doi.org/10.1109/scm66446.2025.11060238">Paper</a> · <a href="https://github.com/Tanmoy07072001/SAAMU-Net-U-Net-Model-for-Microscopic-Medical-Image-Segmentation">Code</a></sub>
+</p>
+
+<p align="center">
+  <a href="https://imaginative-stardust-36f7d1.netlify.app/">
+    <img src="./assets/drone-1.jpg" alt="Field test — quadcopter and hexacopter" width="24%" />
+    <img src="./assets/drone-2.jpg" alt="Night ops — navigation lights on grass" width="24%" />
+    <img src="./assets/drone-3.jpg" alt="Ground station — tracking antennas" width="24%" />
+    <img src="./assets/drone-4.jpg" alt="NIDAR 2026 — National Innovation Challenge" width="24%" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Drone Works</b> · Pixhawk · YOLO · NIDAR 2026 · AIR 17<br />
+  <sub>Custom airframes I assembled, missions I fly, and a YOLO pipeline for live and post-flight detection.</sub>
+</p>
 
 ---
 
